@@ -82,6 +82,7 @@ def client_new(db_client):
 def client_lookup(db_client, lookup=0):
   
   for client in db_client:
+    pass
     
   
 # Variables
